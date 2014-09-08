@@ -6,6 +6,7 @@ print hello world!
 """
 
 def hello():
+    # Here's a different comment
     print "hello world!"
     print "test"
 
